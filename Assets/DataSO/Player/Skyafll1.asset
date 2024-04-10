@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212a60505a83f4c2dbf468c8e476730c, type: 3}
+  m_Name: Skyafll1
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 8235439690573520720, guid: 5ec19484677684b038cedbd8f41ddc6a, type: 3}
+  reloadDelay: 1.3
+  bulletData: {fileID: 11400000, guid: 379c585659e074fe8ae5f5db2b8cd4c1, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212a60505a83f4c2dbf468c8e476730c, type: 3}
+  m_Name: RayBoss
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 5892367592492280111, guid: 4ef5464d7de1040cc8f97aff6aa95e92, type: 3}
+  reloadDelay: 1.6
+  bulletData: {fileID: 11400000, guid: bd9fa7a01c00345f5aa5223df684d364, type: 2}
